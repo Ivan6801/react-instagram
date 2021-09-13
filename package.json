@@ -9,6 +9,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-scroll-horizontal": "^1.6.6",
+    "react-sticky-el": "^2.0.9",
+    "sass": "^1.39.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -34,5 +37,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.36",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.14"
   }
 }
